@@ -9,7 +9,7 @@
            remote="aosp"
            sync-j="4" />
 
-  <project path="build" remote="androvm" name="androvm/platform_build" revision="androVM-4.1.1_r6.1" >
+  <project path="build" remote="androvm" name="androvm/platform_build" revision="androVM-4.1.1_r6.1" />
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" />
