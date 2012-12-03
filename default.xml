@@ -307,5 +307,7 @@
   <project path="system/vold" remote="androvm" name="androvm/platform_system_vold" revision="androVM-4.1.1_r6.1" />
 
   <project path="device/androVM" remote="androvm" name="androvm/device_androVM" revision="androVM-4.1.1_r6.1" >
+  <project path="external/busybox" remote="androvm" name="androvm/platform_external_busybox" revision="androVM-4.1.1_r6.1" >
+  <project path="packages/apps/Superuser" remote="androvm" name="androvm/platform_packages_apps_Superuser" revision="androVM-4.1.1_r6.1" >
 
 </manifest>
